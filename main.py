@@ -3,7 +3,7 @@ import cash_on_hand, overheads, profit_loss
 #Defining the main function and setting no parameters.
 def main():
     """
-    This function will run the other functions to generate the data required.
+    This function will run the other functions to generate the data that is required.
     """
 #Binding the profit loss value to the profit loss function.
     profit_loss_value = profit_loss.profit_loss_function()
